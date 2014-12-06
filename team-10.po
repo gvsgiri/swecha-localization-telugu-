@@ -1,0 +1,743 @@
+#: src/rsdialog.cpp:248
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R16: Explosive when mixed with oxidising substances"
+msgstr "R16: ఆక్సిడైజింగ్  పదార్థాలతో కలిపి ఉన్నప్పుడు  పేలుతాయి"
+
+#: src/rsdialog.cpp:249
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R17: Spontaneously flammable in air"
+msgstr "R17: గాలిలో తక్షణమే మండగలదు"
+
+#: src/rsdialog.cpp:250
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R18: In use, may form flammable/explosive vapour-air mixture"
+msgstr "R18: వాడుకలో, భాష్పేభవన మిశ్రమం మంట/పేలుడు స్రుష్టించవచ్చు"
+
+#: src/rsdialog.cpp:251
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R19: May form explosive peroxides"
+msgstr "R19: పేలుడు కారక పెరాక్సైడ్లుగా మారవచ్చు"
+
+#: src/rsdialog.cpp:252
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R20: Harmful by inhalation"
+msgstr "R20:ఉచ్ఛ్వాసము ద్వారా హానికరం"
+
+#: src/rsdialog.cpp:253
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R21: Harmful in contact with skin"
+msgstr "R21: చర్మం తో తాకిడి ప్రమాదకరం "
+
+#: src/rsdialog.cpp:254
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R22: Harmful if swallowed"
+msgstr "R22: మ్రింగిన చో ప్రమాదకరం"
+
+#: src/rsdialog.cpp:255
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R23: Toxic by inhalation"
+msgstr "R23: పీల్చినచో విషపూరితం"
+
+#: src/rsdialog.cpp:256
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R24: Toxic in contact with skin"
+msgstr "చర్మం తో తాకిడి విషపూరితం "
+
+#: src/rsdialog.cpp:257
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R25: Toxic if swallowed"
+msgstr "మ్రింగిన చో విషపూరితం"
+
+#: src/rsdialog.cpp:258
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R26: Very toxic by inhalation"
+msgstr "R26: పీల్చడం చాలా విషపూరితం"
+
+#: src/rsdialog.cpp:259
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R27: Very toxic in contact with skin"
+msgstr "R27: చర్మం తో కలిసినపుడు చాలా విషపూరితం"
+
+#: src/rsdialog.cpp:260
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R28: Very toxic if swallowed"
+msgstr "R28: మ్రింగి నచో చాలా విషపూరితం"
+
+#: src/rsdialog.cpp:261
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R29: Contact with water liberates toxic gas."
+msgstr "R29: నీరు తో కలిసినపు విష వాయువు విదుదల అవుతాయి"
+
+#: src/rsdialog.cpp:262
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R30: Can become highly flammable in use"
+msgstr "R30: ఉపయోగంలో అత్యంత సులభంగా మండవచ్చు"
+
+#: src/rsdialog.cpp:263
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R31: Contact with acids liberates toxic gas"
+msgstr "R31: ఆమ్లాలు కలిసినప్పుడు విషపూరిత వాయువులు విడుదల అవుతాయి"
+
+#: src/rsdialog.cpp:264
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R32: Contact with acids liberates very toxic gas"
+msgstr "R32: ఆమ్లాలతో కలిసినప్పుడు చాలా విషపూరిత వాయువులు విడుదల అవుతాయి"
+
+#: src/rsdialog.cpp:265
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R33: Danger of cumulative effects"
+msgstr "R33: సంచిత ప్రభావాలు ప్రమాదం"
+
+#: src/rsdialog.cpp:266
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R34: Causes burns"
+msgstr "R34: మండే గాయలకు కారణమవుతుంది"
+
+#: src/rsdialog.cpp:267
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R35: Causes severe burns"
+msgstr "R35: తీవ్రమైన కాలిన గాయలకు కారణమవుతుంది"
+
+#: src/rsdialog.cpp:268
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R36: Irritating to eyes"
+msgstr "R36: కళ్ల కు ఇబ్బంది"
+
+#: src/rsdialog.cpp:269
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R37: Irritating to respiratory system"
+msgstr "R37: శ్వాసవ్యవస్థకు చిరాకు"
+
+#: src/rsdialog.cpp:270
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R38: Irritating to skin"
+msgstr "R38: చర్మానికి చిరాకు"
+
+#: src/rsdialog.cpp:271
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R39: Danger of very serious irreversible effects"
+msgstr "R39: చాలా తీవ్రమైన కోలుకోలేని ప్రభావాలు ప్రమాదకరం"
+
+#: src/rsdialog.cpp:272
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R40: Limited evidence of a carcinogenic effect"
+msgstr "R40: కార్సినొజెని ప్రభావానికి ఒక పరిమిత సాక్ష్యం"
+
+#: src/rsdialog.cpp:273
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R41: Risk of serious damage to eyes"
+msgstr "R41: కళ్ళకు తీవ్రమైన నష్టం"
+
+#: src/rsdialog.cpp:274
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R42: May cause sensitisation by inhalation"
+msgstr "R42: పీల్చడం ద్వారా సున్నితత్వాన్ని కలిగించవచ్చు"
+
+#: src/rsdialog.cpp:275
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R43: May cause sensitisation by skin contact"
+msgstr "R43: చర్మ సంప్రదింపు ద్వారా సున్నితత్వాన్ని కలిగించవచ్చు"
+
+#: src/rsdialog.cpp:276
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R44: Risk of explosion if heated under confinement"
+msgstr "R44: నిర్బంధంలో వేడి చేస్తే పేలుడు సంభవించవచ్చు"
+
+#: src/rsdialog.cpp:277
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R45: May cause cancer"
+msgstr "R45: క్యాన్సర్ కలిగించవచ్చు"
+
+#: src/rsdialog.cpp:278
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R46: May cause heritable genetic damage"
+msgstr "R46: అనువంశిక జన్యు హాని కలిగించవచ్చు"
+
+#: src/rsdialog.cpp:279
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R48: Danger of serious damage to health by prolonged exposure"
+msgstr "R48: దీర్ఘకాలిక బహిర్గతం ద్వారా ఆరోగ్యానికి తీవ్ర ప్రమాదకరం"
+
+#: src/rsdialog.cpp:280
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R49: May cause cancer by inhalation"
+msgstr "R49: పీల్చడం ద్వారా క్యాన్సర్ కలగవచ్చు"
+
+#: src/rsdialog.cpp:281
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R50: Very toxic to aquatic organisms"
+msgstr "R50: జలచరాలకి చాలా విషపూరితమైనది"
+
+#: src/rsdialog.cpp:282
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R51: Toxic to aquatic organisms"
+msgstr "R51: జలచరాలకి విషపూరితమైనది"
+
+#: src/rsdialog.cpp:283
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R52: Harmful to aquatic organisms"
+msgstr "R52: జలచరాలకి హానికరమైనది"
+
+#: src/rsdialog.cpp:284
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R53: May cause long-term adverse effects in the aquatic environment"
+msgstr "-R53: జల వాతావరణం లో దీర్ఘకాల ప్రతికూల ప్రభావాలు కలిగించవచ్చు"
+
+#: src/rsdialog.cpp:285
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R54: Toxic to flora"
+msgstr "R54: వృక్ష విషపూరితం"
+
+#: src/rsdialog.cpp:286
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R55: Toxic to fauna"
+msgstr "R55: జంతుజాలంలో విషపూరితo"
+
+#: src/rsdialog.cpp:287
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R56: Toxic to soil organisms"
+msgstr "R56: నేల జీవులకు విషపూరితం"
+
+#: src/rsdialog.cpp:288
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R57: Toxic to bees"
+msgstr "R57: తేనెటీగలు కు విషపూరితం"
+
+#: src/rsdialog.cpp:289
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R58: May cause long-term adverse effects in the environment"
+msgstr "R58: వాతావరణంలో దీర్ఘకాల ప్రతికూల ప్రభావాలు కలిగించవచ్చు"
+
+#: src/rsdialog.cpp:290
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R59: Dangerous for the ozone layer"
+msgstr "R59:ఓజోన్ పొరకు ప్రమాదకరం"
+
+#: src/rsdialog.cpp:291
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R60: May impair fertility"
+msgstr "R60: సంతానోత్పత్తికి  దెబ్బ ఉండవచ్చు"
+
+#: src/rsdialog.cpp:292
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R61: May cause harm to the unborn child"
+msgstr "R61: పుట్టబోయే బిడ్డకు హాని కలిగించవచ్చు"
+
+#: src/rsdialog.cpp:293
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R62: Possible risk of impaired fertility"
+msgstr "R62: వైకల్య సంతానోత్పత్తి ప్రమాదం కలగవచ్చు"
+
+#: src/rsdialog.cpp:294
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R63: Possible risk of harm to the unborn child"
+msgstr "R63: పుట్టని శిశువుకు హాని, ప్రమాదం కలగవచ్చు"
+
+#: src/rsdialog.cpp:295
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R64: May cause harm to breast-fed babies"
+msgstr "R64: రొమ్ము పాలు తాగే పిల్లలకు హాని కలిగించవచ్చు"
+
+#: src/rsdialog.cpp:296
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R65: Harmful: may cause lung damage if swallowed"
+msgstr "R65:హానికరం: మ్రింగడం  చేత ఊపిరితిత్తులకు హాని కలిగించవచ్చు"
+
+#: src/rsdialog.cpp:297
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R66: Repeated exposure may cause skin dryness or cracking"
+msgstr "R66:తరచుగా  బహిర్గతం  వలన చర్మం పొడి  లేదా పగుళ్ళు కలిగిస్తాయి"
+
+#: src/rsdialog.cpp:298
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R67: Vapours may cause drowsiness and dizziness"
+msgstr "R67: ఆవిరి వలన మత్తు మరియు మైకము కలిగిస్తాయి"
+
+#: src/rsdialog.cpp:299
+msgctxt ""
+"Please take the official translations! You find them here: http://eur-lex."
+"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+msgid "R68: Possible risk of irreversible effects"
+msgstr "R68: పూడ్చలేని ప్రభావాల వలన ప్రమాదాలు కలగవచ్చు"
+
+#: src/rsdialog.cpp:328
+msgid "At least one of the specified phrases is invalid."
+msgstr " పేర్కొన్న పదబంధాలు కనీసం ఒక్కటి కూడా చెల్లదు."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/rswidget.ui:28
+msgid "S-Phrases: "
+msgstr "S-పదబంధాలు:"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, r_le)
+#: src/rswidget.ui:48
+msgid ""
+"Enter the R-Phrases you want to read. Only \"-\" is allowed as a delimiter. "
+"The combinations with \"/\" are not yet implemented."
+msgstr "మీరు చదవాలనుకుంటున్న R-పదబంధాలు నమోదు చేయండి. కేవలం \"-\" మాత్రమే అడ్డుగా 
+అనుమతించబడుతుంది. \"/\" సంయోజనంతో ఇంకా అమలు కాలేదు."
+
+#. i18n: ectx: property (whatsThis), widget (KLineEdit, r_le)
+#: src/rswidget.ui:54
+msgid "Enter the R-Phrases you want to read"
+msgstr "మీరు చదవాలనుకుంటున్న R-పదబంధాలు ను ఎంటర్ చెయ్యండి"
+
+#. i18n: ectx: property (text), widget (KLineEdit, r_le)
+#. i18n: ectx: property (text), widget (KLineEdit, s_le)
+#: src/rswidget.ui:57 src/rswidget.ui:70
+msgid "1-2-3-4-5-6-7-8-9"
+msgstr "1-2-3-4-5-6-7-8-9"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, s_le)
+#: src/rswidget.ui:64
+msgid ""
+"Enter the S-Phrases you want to read. Only \"-\" is allowed as a delimiter. "
+"The combinations with \"/\" are not yet implemented."
+msgstr "మీరు చదవాలనుకుంటున్న S-పదబంధాలు నమోదు చేయండి. కేవలం \"-\" మాత్రమే అడ్డుగా 
+అనుమతించబడుతుంది. \"/\" సంయోజనంతో ఇంకా అమలు కాలేదు."
+
+#. i18n: ectx: property (whatsThis), widget (KLineEdit, s_le)
+#: src/rswidget.ui:67
+msgid "Enter the S-Phrases you want to read"
+msgstr "మీరు చదవాలనుకుంటున్న S-పదబంధాలు నమోదు చెయ్యండి"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, filterButton)
+#. i18n: ectx: property (whatsThis), widget (QPushButton, filterButton)
+#: src/rswidget.ui:77 src/rswidget.ui:80
+msgid "Click here to search for the phrases you entered on the left"
+msgstr "మీరు ఎడమ వైపు నమోదు చేసిన పదబంధాలు కోసం ఇక్కడ అన్వేషణ చేయండి"
+
+#. i18n: ectx: property (text), widget (QPushButton, filterButton)
+#: src/rswidget.ui:83
+msgid "&Filter"
+msgstr "వడపోత"
+
+#: src/searchwidget.cpp:38
+msgid "Search:"
+msgstr "శోధన"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel13)
+#: src/settings_colors.ui:47
+msgid "s-Block:"
+msgstr "s-బ్లాక్:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel14)
+#: src/settings_colors.ui:67
+msgid "p-Block:"
+msgstr "p-బ్లాక్:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel15)
+#: src/settings_colors.ui:87
+msgid "d-Block:"
+msgstr "d-బ్లాక్:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel16)
+#: src/settings_colors.ui:107
+msgid "f-Block:"
+msgstr "f-బ్లాక్:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2_2)
+#: src/settings_colors.ui:153
+msgid "Group 1:"
+msgstr "1వ సమూహం"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8)
+#: src/settings_colors.ui:173
+msgid "Group 2:"
+msgstr "2వ సమూహం"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel7)
+#: src/settings_colors.ui:193
+msgid "Group 3:"
+msgstr " ౩వ సమూహం"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6)
+#: src/settings_colors.ui:213
+msgid "Group 4:"
+msgstr "4వ సమూహం"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5_2)
+#: src/settings_colors.ui:233
+msgid "Group 5:"
+msgstr "5వ సమూహం"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
+#: src/settings_colors.ui:253
+msgid "Group 6:"
+msgstr "6వ సమూహం"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
+#: src/settings_colors.ui:273
+msgid "Group 7:"
+msgstr "7వ సమూహం"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
+#: src/settings_colors.ui:293
+msgid "Group 8:"
+msgstr "8వ సమూహం"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabStateOfMatter)
+#: src/settings_colors.ui:319
+msgid "State of Matter"
+msgstr " పదార్ధము యొక్క స్థితి"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: src/settings_colors.ui:339
+msgid "Solid:"
+msgstr "ఘన"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: src/settings_colors.ui:359
+msgid "Liquid:"
+msgstr "ద్రవ"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: src/settings_colors.ui:379
+msgid "Vaporous:"
+msgstr "ఆవిర్లు"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2_2_2)
+#: src/settings_colors.ui:425
+msgid "Alkali metals:"
+msgstr "క్షార లోహాలు"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2)
+#: src/settings_colors.ui:445
+msgid "Rare earth:"
+msgstr "భూమిలో అరుదుగా లబ్యపడటం"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel7_2)
+#: src/settings_colors.ui:465
+msgid "Non-metals:"
+msgstr "లోహాలు కానివి"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel6_2)
+#: src/settings_colors.ui:485
+msgid "Alkaline earth metals:"
+msgstr "క్షారమృత్తిక లోహాలు"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel5_2_2)
+#: src/settings_colors.ui:505
+msgid "Other metals:"
+msgstr "ఇతర లోహాలు"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel4_2_2)
+#: src/settings_colors.ui:525
+msgid "Halogens:"
+msgstr "హాలోజన్"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3_2_2)
+#: src/settings_colors.ui:545
+msgid "Transition metals:"
+msgstr "మార్పు చెందే లోహాలు"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2_3)
+#: src/settings_colors.ui:565
+msgid "Noble gases:"
+msgstr "ఉత్కృష్ట వాయువులు"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel2_2_3_2)
+#: src/settings_colors.ui:585
+msgid "Metalloids:"
+msgstr "ఉప ధాతువులు"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabNoColor)
+#: src/settings_colors.ui:611
+msgid "No Color Scheme"
+msgstr "రంగు లేని పథకం"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel8_2_2)
+#: src/settings_colors.ui:631
+msgid "All the elements:"
+msgstr "అన్ని మూలకాలు"
+
+#. i18n: ectx: property (toolTip), widget (KColorButton, kcfg_noscheme)
+#. i18n: ectx: property (whatsThis), widget (KColorButton, kcfg_noscheme)
+#: src/settings_colors.ui:638 src/settings_colors.ui:641
+msgid "This color will be used if no other scheme is selected"
+msgstr "ఏ ఇతర పథకం ఎంపిక కాకపోతే ఈ రంగు ఉపయోగించబడుతుంది"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/settings_gradients.ui:42
+msgid 
+"Instead of using a linear gradient to display the given property of an "
+"element in the periodic table, Kalzium can also use a logarithmic gradient.\n"
+"\n"
+"Check the properties you want to have displayed with a logarithmic gradient."
+msgstr "సరళ ప్రవణత ఉపయోగించుట బదులుగా,ఆవర్తన పట్టికలో ఒక మూలకం యొక్క ఇచ్చిన లక్షణాలు ప్రదర్శించడానికి,కాల్ఝీయమ్ కూడా సంవర్గమాన ప్రవణత ఉపయోగించవచ్చు."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicDiscoverydateGradient)
+#: src/settings_gradients.ui:102
+msgid "Discovery Date"
+msgstr "కనుగొన్న తేదీ"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/settings_gradients.ui:136
+msgid "Maximal Value Color:"
+msgstr "గరిష్ట విలువ రంగు"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/settings_gradients.ui:152
+msgid "Minimal Value Color:"
+msgstr "కనిష్ట విలువ రంగు"
+
+#. i18n: ectx: property (toolTip), widget (QWidget, SpectrumView)
+#: src/spectrumview.ui:14
+msgid 
+"This page gives an overview of the spectrum of this element. Using the mouse "
+"you can zoom into the spectrum."
+msgstr "ఈ పేజీ మూలకం యొక్క వర్ణపటం తెలుపుతోంది. మౌస్ ఉపయోగించి మీరు స్పెక్ట్రంను దగ్గరగా
+చూడగలరు." 
+
+#. i18n: ectx: property (whatsThis), widget (QWidget, SpectrumView)
+#: src/spectrumview.ui:17
+msgid "This page gives an overview of the spectrum of this element."
+msgstr "ఈ పేజీ మూలకం యొక్క వర్ణపటం తెలుపుతోంది."
+
+#. i18n: ectx: property (toolTip), widget (SpectrumWidget, m_spectrumWidget)
+#. i18n: ectx: property (whatsThis), widget (SpectrumWidget, m_spectrumWidget)
+#: src/spectrumview.ui:41 src/spectrumview.ui:44
+msgid "This is the spectrum of the element."
+msgstr "ఇది మూలకం యొక్క వర్ణపటం."
+
+#. i18n: ectx: property (text), widget (QLabel, label1)
+#: src/spectrumview.ui:53
+msgid "&Minimum value:"
+msgstr "&కనిష్ట విలువ:"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, minimumValue)
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, minimumValue)
+#: src/spectrumview.ui:66 src/spectrumview.ui:69
+msgid "This sets the leftmost wavelength of the spectrum."
+msgstr "ఈ స్పెక్ట్రం ఎడమవైపున తరంగదైర్ఘ్యం అమర్చుతుంది
+"
+
+#. i18n: ectx: property (text), widget (QLabel, label2)
+#: src/spectrumview.ui:110
+msgid "Maximum &value:"
+msgstr "గరిష్ట & విలువ:"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, maximumValue)
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, maximumValue)
+#: src/spectrumview.ui:123 src/spectrumview.ui:126
+msgid "This sets the rightmost wavelength of the spectrum."
+msgstr "ఈ స్పెక్ట్రం కుడివైపున తరంగదైర్ఘ్యం అమర్చుతుంది"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: src/spectrumview.ui:145
+msgid "Spectrum Settings"
+msgstr " స్పెక్ట్రం అమరికలు"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, m_spectrumType)
+#: src/spectrumview.ui:155
+msgid "Emission spectrum"
+msgstr "ఉద్గారం"
+
+#. i18n: ectx: property (text), item, widget (QComboBox, m_spectrumType)
+#: src/spectrumview.ui:160
+msgid "Absorption spectrum"
+msgstr "శోషణ స్పెక్ట్రం"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/spectrumview.ui:168
+msgid "Unit:"
+msgstr "యూనిట్:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/spectrumview.ui:175
+msgid "Type:"
+msgstr "రకం:"
+
+#. i18n: ectx: property (text), widget (QPushButton, btn_resetZoom)
+#: src/spectrumview.ui:185
+msgid "Reset zoom"
+msgstr "తిరిగి అమర్చు"
+
+#: src/spectrumviewimpl.cpp:29
+msgid "Wavelength"
+msgstr "తరంగ ధైర్ఘ్యము"
+
+#: src/spectrumviewimpl.cpp:29
+msgid "Intensity"
+msgstr "తీవ్రత"
+
+#: src/tablesdialog.cpp:49 src/tablesdialog.cpp:50
+msgid "Greek alphabet"
+msgstr "గ్రీకు అక్షరము"
+
+#: src/tablesdialog.cpp:60
+msgid "Uppercase"
+msgstr "పెద్దబడి"
+
+#: src/tablesdialog.cpp:61
+msgid "Lowercase"
+msgstr "చిన్నబడి"
+
+#: src/tablesdialog.cpp:62
+msgctxt ""
+"The name of the greek letter in your language. For example 'Alpha' for the "
+"first letter. "
+msgid "Name"
+msgstr "పేరు"
+
+#: src/tablesdialog.cpp:117
+msgid "alpha"
+msgstr "ఆల్ఫా"
+
+#: src/tablesdialog.cpp:118
+msgid "beta"
+msgstr "బీటా"
+
+#: src/tablesdialog.cpp:119
+msgid "gamma"
+msgstr "గామా"
+
+#: src/tablesdialog.cpp:120
+msgid "delta"
+msgstr "డెల్టా"
+
+#: src/tablesdialog.cpp:121
+msgid "epsilon"
+msgstr "ఎప్సిలాన్"
+
+#: src/tablesdialog.cpp:122
+msgid "zeta"
+msgstr "జీటా"
+
+#: src/tablesdialog.cpp:123
+msgid "eta"
+msgstr "ఈటా"
+
+#: src/tablesdialog.cpp:124
+msgid "theta"
+msgstr "తీటా"
+
+#: src/tablesdialog.cpp:125
+msgid "iota"
+msgstr "ఐయోట"
+
+#: src/tablesdialog.cpp:126
+msgid "kappa"
+msgstr "కప్పా"
+
+#: src/tablesdialog.cpp:127
+msgid "lambda"
+msgstr "లాంబ్డా"
+
+#: src/tablesdialog.cpp:128
+msgid "mu"
+msgstr "ము"
+
+#: src/tablesdialog.cpp:129
+msgid "nu"
+msgstr "ను"
+
+#: src/tablesdialog.cpp:130
+msgid "xi"
+msgstr "xi"
+
+#: src/tablesdialog.cpp:131
+msgid "omicron"
+msgstr "ఓమిక్రాన్"
